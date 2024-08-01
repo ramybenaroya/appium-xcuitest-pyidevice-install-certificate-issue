@@ -1,0 +1,19 @@
+{
+  "name": "appium-xcuitest-pyidevice-install-certificate-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "appium",
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "appium": "^2.11.2",
+    "appium-xcuitest-driver": "^7.24.7"
+  },
+  "dependencies": {
+    "webdriverio": "^8.39.1"
+  }
+}
