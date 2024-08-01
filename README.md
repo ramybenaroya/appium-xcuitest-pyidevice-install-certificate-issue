@@ -10,5 +10,5 @@ npx start
 ```
 ## Test
 ```bash
-npm test`   
+npm test
 ```
